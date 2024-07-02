@@ -1,4 +1,4 @@
-![logo](https://github.com/sakhawat-code-info/sakhawat-code-info/blob/main/github-header-image.png)
+![logo](https://github.com/sakhawat-code-info/sakhawat-code-info/blob/main/github-header-image-Update.png)
 <h1 align="center">Hi 👋, I'm Mir Sakhawat Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
