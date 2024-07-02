@@ -1,6 +1,6 @@
 ![logo](https://github.com/sakhawat-code-info/sakhawat-code-info/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Mir Sakhawat Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I am a dedicated Frontend Developer with a knack for creating stunning and functional web applications. My expertise lies in bringing ideas to life through mode</h3>
 
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
