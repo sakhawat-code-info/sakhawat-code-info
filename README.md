@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, NextJS**
 
-- 📫 How to reach me **01939727303**
+- 📫 How to reach me **sakhawat.code.info@gmail.com || 01939727303**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GgjIYwrXXQT0oBIP0tS0qrOd77Z6_1Mo/view?usp=sharing](https://drive.google.com/file/d/1GgjIYwrXXQT0oBIP0tS0qrOd77Z6_1Mo/view?usp=sharing)
 
