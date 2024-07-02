@@ -1,4 +1,4 @@
-![logo](https://github.com/sakhawat-code-info/sakhawat-code-info/blob/main/github-header-image-Update.png)
+![logo](https://github.com/sakhawat-code-info/sakhawat-code-info/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Mir Sakhawat Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
